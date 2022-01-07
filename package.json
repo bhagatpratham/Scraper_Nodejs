@@ -1,0 +1,16 @@
+{
+  "name": "web-scraper-nodejs",
+  "version": "1.0.0",
+  "description": "Web scraper with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pratham",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "puppeteer": "^13.0.1"
+  }
+}
